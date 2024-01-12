@@ -92,7 +92,7 @@ a {
   }
   .weather-app-temperature{
     
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 10px;
     
   }  
@@ -105,7 +105,7 @@ a {
     }  
     .weather-app-unit {
       margin-top: 0;
-      font-size: 35px;
+      font-size: 20px;
       
       
     }   
