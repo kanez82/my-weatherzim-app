@@ -29,7 +29,7 @@ a {
     background-color: #f9f7fe;
     border: none;
     border-radius: 6px;
-    width: 80px;
+    width: 450px;
     padding: 15px 20px;
     font-size: 16px;
     
@@ -48,7 +48,7 @@ a {
     
   }
 
-  button:hover {
+  .search-button:hover {
     cursor: pointer;
     background: #5e41a7;
   }
@@ -92,29 +92,29 @@ a {
   }
   .weather-app-temperature{
     
-    font-size: 88px;
+    font-size: 50px;
     margin-left: 10px;
     
   }  
     
   .weather-app-icon {
       font-size: 44px;
-      margin-top: 22px;
+      margin-top: 8px;
       
       
     }  
     .weather-app-unit {
-      margin-top: 16px;
-      font-size: 28px;
+      margin-top: 0;
+      font-size: 35px;
       
       
     }   
     
    footer {
-    font-weight: 500;
+    font-weight: 700;
     border-top: 1px solid #f9f7fe;
     padding: 30px 0 0 0 ;
     text-align: center;
     color: rgba(0, 0, 0, 0.6);
-    font-size: 12px;
+    font-size: 16px;
   }
