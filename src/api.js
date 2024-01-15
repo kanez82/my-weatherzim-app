@@ -4,7 +4,7 @@ let temperature = response.data.temperature.current;
 let cityElement = document.querySelector("#weather-city");
 cityElement.innerHTML = response.data.city;
     
-tempetarureElement.innerHTML = Math.round(temperature);
+temperatureElement.innerHTML = Math.round(temperature);
     
 }
    
