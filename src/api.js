@@ -8,10 +8,6 @@ temperatureElement.innerHTML = Math.round(temperature);
     
 }
    
- 
-    
-   
-   
    
     
   function searchCity(city) {
@@ -32,7 +28,7 @@ function handleSearchSubmit(event) {
      
  let formElement = document.querySelector("#form");
  formElement.addEventListener("submit", handleSearchSubmit);   
-  
+ 
        
 searchCity("Paris");  
     
